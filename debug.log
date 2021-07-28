@@ -1,0 +1,46 @@
+Shutdown : In progress...
+Flush(false) db not started
+StopNode()
+Flushed 0 addresses to peers.dat  383ms
+Flush(true) db not started
+Shutdown : done
+2015-10-19 10:00:09 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2015-10-19 10:00:09 MobiusCoin version v0.8.6.0-ge95e9c5-beta ()
+2015-10-19 10:00:09 Using OpenSSL version OpenSSL 1.0.1f 6 Jan 2014
+2015-10-19 10:00:09 Default data directory /root/.ladybug
+2015-10-19 10:00:09 Using data directory 
+2015-10-19 10:00:09 Using at most 125 connections (1024 file descriptors available)
+2015-10-19 10:00:09 Using 2 threads for script verification
+2015-10-19 10:00:09 init message: Verifying wallet...
+2015-10-19 10:00:09 dbenv.open LogDir=database ErrorFile=db.log
+2015-10-19 10:00:09 Unable to bind to [::]:11012 on this computer. MobiusCoin is probably already running.
+2015-10-19 10:00:09 Unable to bind to 0.0.0.0:11012 on this computer. MobiusCoin is probably already running.
+2015-10-19 10:00:09 Error: Unable to bind to 0.0.0.0:11012 on this computer. MobiusCoin is probably already running.
+2015-10-19 10:00:09 Error: Failed to listen on any port. Use -listen=0 if you want this.
+2015-10-19 10:00:09 Shutdown : In progress...
+2015-10-19 10:00:09 Flush(false)
+2015-10-19 10:00:09 DBFlush(false) ended               0ms
+2015-10-19 10:00:09 StopNode()
+2015-10-19 10:00:10 Flushed 0 addresses to peers.dat  455ms
+2015-10-19 10:00:10 Flush(true)
+2015-10-19 10:00:10 DBFlush(true) ended               0ms
+2015-10-19 10:00:10 Shutdown : done

@@ -1,0 +1,415 @@
+11:43:37 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 1 issued + 0 lookahead size + 0 lookahead threshold - 0 num children
+11:43:37 1 DeterministicKeyChain.maybeLookAhead: Took 1 msec
+11:43:37 1 MnemonicCode.toSeed: PBKDF2 took 246ms
+11:43:37 1 KeyChainGroup.createAndActivateNewHDChain: Creating and activating a new HD chain: org.bitcoinj.wallet.DeterministicKeyChain@fe5966
+11:43:37 1 MnemonicCode.toSeed: PBKDF2 took 240ms
+11:43:37 1 KeyChainGroup.createAndActivateNewHDChain: Creating and activating a new HD chain: org.bitcoinj.wallet.DeterministicKeyChain@17b8e13
+11:43:37 1 KeyChainGroup.upgradeToDeterministic: Auto-upgrading pre-HD wallet to HD!
+11:43:37 1 KeyChainGroup.upgradeToDeterministic: Instantiating new HD chain using oldest non-rotating private key (address: 1FC95EzVCLshacxSX3e1xQ84fWS4asTyUG)
+11:43:38 1 MnemonicCode.toSeed: PBKDF2 took 241ms
+11:43:38 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 1 issued + 0 lookahead size + 0 lookahead threshold - 0 num children
+11:43:38 1 DeterministicKeyChain.maybeLookAhead: Took 1 msec
+11:43:38 1 KeyChainGroup.upgradeToDeterministic: Auto-upgrading pre-HD wallet to HD!
+11:43:38 1 KeyChainGroup.upgradeToDeterministic: Instantiating new HD chain using oldest non-rotating private key (address: 1FC95EzVCLshacxSX3e1xQ84fWS4asTyUG)
+11:43:38 1 MnemonicCode.toSeed: PBKDF2 took 241ms
+11:43:38 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 1 issued + 0 lookahead size + 0 lookahead threshold - 0 num children
+11:43:38 1 DeterministicKeyChain.maybeLookAhead: Took 1 msec
+11:43:38 1 MnemonicCode.toSeed: PBKDF2 took 244ms
+11:43:38 1 KeyChainGroup.createAndActivateNewHDChain: Creating and activating a new HD chain: org.bitcoinj.wallet.DeterministicKeyChain@1923407
+11:43:38 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 1 issued + 0 lookahead size + 0 lookahead threshold - 0 num children
+11:43:38 1 DeterministicKeyChain.maybeLookAhead: Took 2 msec
+11:43:38 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 1 issued + 0 lookahead size + 0 lookahead threshold - 0 num children
+11:43:38 1 DeterministicKeyChain.maybeLookAhead: Took 1 msec
+11:43:38 1 MnemonicCode.toSeed: PBKDF2 took 242ms
+11:43:38 1 KeyChainGroup.createAndActivateNewHDChain: Creating and activating a new HD chain: org.bitcoinj.wallet.DeterministicKeyChain@9f066f
+11:43:38 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 1 issued + 0 lookahead size + 0 lookahead threshold - 0 num children
+11:43:38 1 DeterministicKeyChain.maybeLookAhead: Took 1 msec
+11:43:38 1 KeyChainGroup.maybeMarkCurrentKeyAsUsed: Marking key as used: DeterministicKey{pub=0397f86209a6526f9f98a5fd8f1e2ed3c3d93928052d3b1a99c0ea8a4f5429f67b, chainCode=b13cb8e7e75f7e0eb998bc4463eb98376b5d5463fda12225e6d40b3a5659ea32, path=M/0H/0/0, isEncrypted=false, isPubKeyOnly=true}
+11:43:38 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 2 issued + 0 lookahead size + 0 lookahead threshold - 1 num children
+11:43:38 1 DeterministicKeyChain.maybeLookAhead: Took 1 msec
+11:43:39 1 MnemonicCode.toSeed: PBKDF2 took 241ms
+11:43:39 1 KeyChainGroup.createAndActivateNewHDChain: Creating and activating a new HD chain: org.bitcoinj.wallet.DeterministicKeyChain@ed3303
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 1 issued + 0 lookahead size + 0 lookahead threshold - 0 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 1 msec
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/0 = 1 issued + 5 lookahead size + 1 lookahead threshold - 1 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 6 msec
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/1 = 0 issued + 5 lookahead size + 1 lookahead threshold - 0 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 7 msec
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 8 issued + 0 lookahead size + 0 lookahead threshold - 7 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 1 msec
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/0 = 8 issued + 5 lookahead size + 1 lookahead threshold - 8 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 7 msec
+11:43:39 1 MnemonicCode.toSeed: PBKDF2 took 244ms
+11:43:39 1 KeyChainGroup.createAndActivateNewHDChain: Creating and activating a new HD chain: org.bitcoinj.wallet.DeterministicKeyChain@1aa766b
+11:43:39 1 MnemonicCode.toSeed: PBKDF2 took 244ms
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 1 issued + 0 lookahead size + 0 lookahead threshold - 0 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 2 msec
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 1 issued + 0 lookahead size + 0 lookahead threshold - 0 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 1 msec
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/0 = 1 issued + 5 lookahead size + 1 lookahead threshold - 1 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 6 msec
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/1 = 0 issued + 5 lookahead size + 1 lookahead threshold - 0 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 7 msec
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/0 = 1 issued + 5 lookahead size + 1 lookahead threshold - 1 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 6 msec
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/1 = 0 issued + 5 lookahead size + 1 lookahead threshold - 0 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 7 msec
+11:43:39 1 MnemonicCode.toSeed: PBKDF2 took 247ms
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 1 issued + 0 lookahead size + 0 lookahead threshold - 0 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 1 msec
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 1 issued + 0 lookahead size + 0 lookahead threshold - 0 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 2 msec
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/0 = 1 issued + 5 lookahead size + 1 lookahead threshold - 1 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 7 msec
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/1 = 0 issued + 5 lookahead size + 1 lookahead threshold - 0 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 7 msec
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/0 = 1 issued + 5 lookahead size + 1 lookahead threshold - 1 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 6 msec
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/1 = 0 issued + 5 lookahead size + 1 lookahead threshold - 0 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 11 msec
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 8 issued + 0 lookahead size + 0 lookahead threshold - 7 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 1 msec
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 8 issued + 0 lookahead size + 0 lookahead threshold - 7 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 1 msec
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/0 = 8 issued + 5 lookahead size + 1 lookahead threshold - 8 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 6 msec
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/0 = 8 issued + 5 lookahead size + 1 lookahead threshold - 8 num children
+11:43:39 1 DeterministicKeyChain.maybeLookAhead: Took 6 msec
+11:43:40 1 MnemonicCode.toSeed: PBKDF2 took 242ms
+11:43:40 1 KeyChainGroup.createAndActivateNewHDChain: Creating and activating a new HD chain: org.bitcoinj.wallet.DeterministicKeyChain@1cc260
+11:43:40 1 KeyChainGroup.upgradeToDeterministic: Auto-upgrading pre-HD wallet to HD!
+11:43:40 1 KeyChainGroup.upgradeToDeterministic: Instantiating new HD chain using oldest non-rotating private key (address: 18iiAJ5xJB4icYhTBHZEnJGraRpxLTpN3R)
+11:43:40 1 MnemonicCode.toSeed: PBKDF2 took 241ms
+11:43:41 1 MnemonicCode.toSeed: PBKDF2 took 242ms
+11:43:41 1 KeyChainGroup.createAndActivateNewHDChain: Creating and activating a new HD chain: org.bitcoinj.wallet.DeterministicKeyChain@1a00e09
+11:43:41 1 MnemonicCode.toSeed: PBKDF2 took 244ms
+11:43:41 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 1 issued + 0 lookahead size + 0 lookahead threshold - 0 num children
+11:43:41 1 DeterministicKeyChain.maybeLookAhead: Took 2 msec
+11:43:41 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 1 issued + 0 lookahead size + 0 lookahead threshold - 0 num children
+11:43:41 1 DeterministicKeyChain.maybeLookAhead: Took 1 msec
+11:43:41 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/0 = 1 issued + 5 lookahead size + 1 lookahead threshold - 1 num children
+11:43:41 1 DeterministicKeyChain.maybeLookAhead: Took 7 msec
+11:43:41 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/1 = 0 issued + 5 lookahead size + 1 lookahead threshold - 0 num children
+11:43:41 1 DeterministicKeyChain.maybeLookAhead: Took 7 msec
+11:43:41 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/0 = 1 issued + 5 lookahead size + 1 lookahead threshold - 1 num children
+11:43:41 1 DeterministicKeyChain.maybeLookAhead: Took 6 msec
+11:43:41 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/1 = 0 issued + 5 lookahead size + 1 lookahead threshold - 0 num children
+11:43:41 1 DeterministicKeyChain.maybeLookAhead: Took 6 msec
+11:43:41 1 MnemonicCode.toSeed: PBKDF2 took 242ms
+11:43:41 1 KeyChainGroup.createAndActivateNewHDChain: Creating and activating a new HD chain: org.bitcoinj.wallet.DeterministicKeyChain@1b8dbda
+11:43:41 1 MnemonicCode.toSeed: PBKDF2 took 243ms
+11:43:42 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/0 = 0 issued + 5 lookahead size + 1 lookahead threshold - 0 num children
+11:43:42 1 DeterministicKeyChain.maybeLookAhead: Took 7 msec
+11:43:42 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/1 = 0 issued + 5 lookahead size + 1 lookahead threshold - 0 num children
+11:43:42 1 DeterministicKeyChain.maybeLookAhead: Took 6 msec
+11:43:42 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 1 issued + 0 lookahead size + 0 lookahead threshold - 0 num children
+11:43:42 1 DeterministicKeyChain.maybeLookAhead: Took 1 msec
+11:43:42 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/0 = 1 issued + 5 lookahead size + 1 lookahead threshold - 1 num children
+11:43:42 1 DeterministicKeyChain.maybeLookAhead: Took 6 msec
+11:43:42 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/1 = 0 issued + 5 lookahead size + 1 lookahead threshold - 0 num children
+11:43:42 1 DeterministicKeyChain.maybeLookAhead: Took 6 msec
+11:43:42 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 7 issued + 0 lookahead size + 0 lookahead threshold - 6 num children
+11:43:42 1 DeterministicKeyChain.maybeLookAhead: Took 1 msec
+11:43:42 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/0 = 7 issued + 5 lookahead size + 1 lookahead threshold - 7 num children
+11:43:42 1 DeterministicKeyChain.maybeLookAhead: Took 7 msec
+11:43:42 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/0 = 7 issued + 5 lookahead size + 1 lookahead threshold - 7 num children
+11:43:42 1 DeterministicKeyChain.maybeLookAhead: Took 6 msec
+11:43:42 1 MnemonicCode.toSeed: PBKDF2 took 242ms
+11:43:42 1 KeyChainGroup.createAndActivateNewHDChain: Creating and activating a new HD chain: org.bitcoinj.wallet.DeterministicKeyChain@5f7e7c
+11:43:42 1 MnemonicCode.toSeed: PBKDF2 took 246ms
+11:43:42 1 KeyChainGroup.createAndActivateNewHDChain: Creating and activating a new HD chain: org.bitcoinj.wallet.DeterministicKeyChain@d1886d
+11:43:42 1 KeyChainGroup.getActiveKeyChain: No HD chain present but random keys are: you probably deserialized an old wallet.
+11:43:42 1 MnemonicCode.toSeed: PBKDF2 took 243ms
+11:43:42 1 KeyChainGroup.createAndActivateNewHDChain: Creating and activating a new HD chain: org.bitcoinj.wallet.DeterministicKeyChain@1f60067
+11:43:43 1 MnemonicCode.toSeed: PBKDF2 took 262ms
+11:43:43 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 1 issued + 0 lookahead size + 0 lookahead threshold - 0 num children
+11:43:43 1 DeterministicKeyChain.maybeLookAhead: Took 2 msec
+11:43:43 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 1 issued + 0 lookahead size + 0 lookahead threshold - 0 num children
+11:43:43 1 DeterministicKeyChain.maybeLookAhead: Took 2 msec
+11:43:43 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/0 = 1 issued + 5 lookahead size + 1 lookahead threshold - 1 num children
+11:43:43 1 DeterministicKeyChain.maybeLookAhead: Took 8 msec
+11:43:43 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/1 = 0 issued + 5 lookahead size + 1 lookahead threshold - 0 num children
+11:43:43 1 DeterministicKeyChain.maybeLookAhead: Took 8 msec
+11:43:43 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/0 = 1 issued + 5 lookahead size + 1 lookahead threshold - 1 num children
+11:43:43 1 DeterministicKeyChain.maybeLookAhead: Took 7 msec
+11:43:43 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/1 = 0 issued + 5 lookahead size + 1 lookahead threshold - 0 num children
+11:43:43 1 DeterministicKeyChain.maybeLookAhead: Took 6 msec
+11:43:43 1 MnemonicCode.toSeed: PBKDF2 took 244ms
+11:43:43 1 KeyChainGroup.createAndActivateNewHDChain: Creating and activating a new HD chain: org.bitcoinj.wallet.DeterministicKeyChain@15156bf
+11:43:43 1 DeterministicKeyChain.maybeLookAhead: 5 keys needed for M/0H/0 = 0 issued + 5 lookahead size + 0 lookahead threshold - 0 num children
+11:43:43 1 DeterministicKeyChain.maybeLookAhead: Took 6 msec
+11:43:43 1 DeterministicKeyChain.maybeLookAhead: 5 keys needed for M/0H/1 = 0 issued + 5 lookahead size + 0 lookahead threshold - 0 num children
+11:43:43 1 DeterministicKeyChain.maybeLookAhead: Took 6 msec
+11:43:43 1 DeterministicKeyChain.maybeLookAhead: 2 keys needed for M/0H/0 = 2 issued + 5 lookahead size + 0 lookahead threshold - 5 num children
+11:43:43 1 DeterministicKeyChain.maybeLookAhead: Took 2 msec
+11:43:43 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/1 = 1 issued + 5 lookahead size + 0 lookahead threshold - 5 num children
+11:43:43 1 DeterministicKeyChain.maybeLookAhead: Took 1 msec
+11:43:43 1 MnemonicCode.toSeed: PBKDF2 took 242ms
+11:43:43 1 KeyChainGroup.createAndActivateNewHDChain: Creating and activating a new HD chain: org.bitcoinj.wallet.DeterministicKeyChain@165539b
+11:43:43 1 MnemonicCode.toSeed: PBKDF2 took 243ms
+11:43:44 1 MnemonicCode.toSeed: PBKDF2 took 241ms
+11:43:44 1 KeyChainGroup.createAndActivateNewHDChain: Creating and activating a new HD chain: org.bitcoinj.wallet.DeterministicKeyChain@13efdbf
+11:43:44 1 KeyChainGroup.upgradeToDeterministic: Auto-upgrading pre-HD wallet to HD!
+11:43:44 1 KeyChainGroup.upgradeToDeterministic: Instantiating new HD chain using oldest non-rotating private key (address: 17Xdy2WVkhXxthhfUjZUxVk8HWAvrgjam1)
+11:43:44 1 MnemonicCode.toSeed: PBKDF2 took 241ms
+11:43:44 1 MnemonicCode.toSeed: PBKDF2 took 241ms
+11:43:44 1 KeyChainGroup.createAndActivateNewHDChain: Creating and activating a new HD chain: org.bitcoinj.wallet.DeterministicKeyChain@1cff952
+11:43:44 1 MnemonicCode.toSeed: PBKDF2 took 241ms
+11:43:44 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 1 issued + 0 lookahead size + 0 lookahead threshold - 0 num children
+11:43:44 1 DeterministicKeyChain.maybeLookAhead: Took 1 msec
+11:43:44 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 1 issued + 0 lookahead size + 0 lookahead threshold - 0 num children
+11:43:44 1 DeterministicKeyChain.maybeLookAhead: Took 2 msec
+11:43:44 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/0 = 1 issued + 5 lookahead size + 1 lookahead threshold - 1 num children
+11:43:45 1 DeterministicKeyChain.maybeLookAhead: Took 12 msec
+11:43:45 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/1 = 0 issued + 5 lookahead size + 1 lookahead threshold - 0 num children
+11:43:45 1 DeterministicKeyChain.maybeLookAhead: Took 7 msec
+11:43:45 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/0 = 1 issued + 5 lookahead size + 1 lookahead threshold - 1 num children
+11:43:45 1 DeterministicKeyChain.maybeLookAhead: Took 6 msec
+11:43:45 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/1 = 0 issued + 5 lookahead size + 1 lookahead threshold - 0 num children
+11:43:45 1 DeterministicKeyChain.maybeLookAhead: Took 7 msec
+11:43:45 1 MnemonicCode.toSeed: PBKDF2 took 242ms
+11:43:45 1 KeyChainGroup.createAndActivateNewHDChain: Creating and activating a new HD chain: org.bitcoinj.wallet.DeterministicKeyChain@97e9b
+11:43:45 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/0 = 0 issued + 5 lookahead size + 1 lookahead threshold - 0 num children
+11:43:45 1 DeterministicKeyChain.maybeLookAhead: Took 6 msec
+11:43:45 1 DeterministicKeyChain.maybeLookAhead: 6 keys needed for M/0H/1 = 0 issued + 5 lookahead size + 1 lookahead threshold - 0 num children
+11:43:45 1 DeterministicKeyChain.maybeLookAhead: Took 6 msec
+11:43:45 1 MnemonicCode.toSeed: PBKDF2 took 242ms
+11:43:45 1 KeyChainGroup.createAndActivateNewHDChain: Creating and activating a new HD chain: org.bitcoinj.wallet.DeterministicKeyChain@13f66e7
+11:43:45 1 MnemonicCode.toSeed: PBKDF2 took 243ms
+11:43:45 1 KeyChainGroup.createAndActivateNewHDChain: Creating and activating a new HD chain: org.bitcoinj.wallet.DeterministicKeyChain@ad3f7d
+11:43:45 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 1 issued + 0 lookahead size + 0 lookahead threshold - 0 num children
+11:43:45 1 DeterministicKeyChain.maybeLookAhead: Took 1 msec
+11:43:45 1 DeterministicKeyChain.maybeLookAhead: 1 keys needed for M/0H/0 = 2 issued + 0 lookahead size + 0 lookahead threshold - 1 num children
+11:43:45 1 DeterministicKeyChain.maybeLookAhead: Took 1 msec
+Tests run: 27, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.183 sec
+
+Results :
+
+Tests in error: 
+  getNetwork(org.bitcoinj.core.AddressTest)
+  p2shAddressCreationFromKeys(org.bitcoinj.core.AddressTest): Could not initialize class org.bitcoinj.core.AddressTest
+  p2shAddress(org.bitcoinj.core.AddressTest): Could not initialize class org.bitcoinj.core.AddressTest
+  stringification(org.bitcoinj.core.AddressTest): Could not initialize class org.bitcoinj.core.AddressTest
+  getAltNetwork(org.bitcoinj.core.AddressTest): Could not initialize class org.bitcoinj.core.AddressTest
+  decoding(org.bitcoinj.core.AddressTest): Could not initialize class org.bitcoinj.core.AddressTest
+  errorPaths(org.bitcoinj.core.AddressTest): Could not initialize class org.bitcoinj.core.AddressTest
+  difficultyTransitions(org.bitcoinj.core.BlockChainTest)
+  duplicates(org.bitcoinj.core.BlockChainTest): Could not initialize class org.bitcoinj.core.BlockChainTest
+  estimatedBlockTime(org.bitcoinj.core.BlockChainTest): Could not initialize class org.bitcoinj.core.BlockChainTest
+  intraBlockDependencies(org.bitcoinj.core.BlockChainTest): Could not initialize class org.bitcoinj.core.BlockChainTest
+  falsePositives(org.bitcoinj.core.BlockChainTest): Could not initialize class org.bitcoinj.core.BlockChainTest
+  unconnectedBlocks(org.bitcoinj.core.BlockChainTest): Could not initialize class org.bitcoinj.core.BlockChainTest
+  receiveCoins(org.bitcoinj.core.BlockChainTest): Could not initialize class org.bitcoinj.core.BlockChainTest
+  coinbaseTransactionAvailability(org.bitcoinj.core.BlockChainTest): Could not initialize class org.bitcoinj.core.BlockChainTest
+  merkleRoots(org.bitcoinj.core.BlockChainTest): Could not initialize class org.bitcoinj.core.BlockChainTest
+  badDifficulty(org.bitcoinj.core.BlockChainTest): Could not initialize class org.bitcoinj.core.BlockChainTest
+  rollbackBlockStore(org.bitcoinj.core.BlockChainTest): Could not initialize class org.bitcoinj.core.BlockChainTest
+  testBasicChaining(org.bitcoinj.core.BlockChainTest): Could not initialize class org.bitcoinj.core.BlockChainTest
+  testBadTransactions(org.bitcoinj.core.BlockTest)
+  testProofOfWork(org.bitcoinj.core.BlockTest): Could not initialize class org.bitcoinj.core.BlockTest
+  testDate(org.bitcoinj.core.BlockTest): Could not initialize class org.bitcoinj.core.BlockTest
+  testWork(org.bitcoinj.core.BlockTest): Could not initialize class org.bitcoinj.core.BlockTest
+  testBitCoinSerialization(org.bitcoinj.core.BlockTest): Could not initialize class org.bitcoinj.core.BlockTest
+  testUpdateLength(org.bitcoinj.core.BlockTest): Could not initialize class org.bitcoinj.core.BlockTest
+  testJavaSerialiazation(org.bitcoinj.core.BlockTest): Could not initialize class org.bitcoinj.core.BlockTest
+  testHeaderParse(org.bitcoinj.core.BlockTest): Could not initialize class org.bitcoinj.core.BlockTest
+  testBlockVerification(org.bitcoinj.core.BlockTest): Could not initialize class org.bitcoinj.core.BlockTest
+  testDoubleSpendOnForkPending(org.bitcoinj.core.ChainSplitTest)
+  testForking3(org.bitcoinj.core.ChainSplitTest)
+  testDoubleSpendOnFork(org.bitcoinj.core.ChainSplitTest)
+  base58Encoding_stress(org.bitcoinj.core.ECKeyTest)
+  base58Encoding_leadingZero(org.bitcoinj.core.ECKeyTest)
+  base58Encoding(org.bitcoinj.core.ECKeyTest)
+  badMessage[0](org.bitcoinj.core.PeerTest)
+  badMessage[1](org.bitcoinj.core.PeerTest)
+  badMessage[2](org.bitcoinj.core.PeerTest)
+  fastCatchup[2](org.bitcoinj.core.PeerTest): Address already in use
+  fastCatchup[2](org.bitcoinj.core.PeerTest)
+  chainDownloadEnd2End[2](org.bitcoinj.core.PeerTest): Address already in use
+  chainDownloadEnd2End[2](org.bitcoinj.core.PeerTest)
+  acceptTimeLockedDependencyNew[2](org.bitcoinj.core.PeerTest): Address already in use
+  acceptTimeLockedDependencyNew[2](org.bitcoinj.core.PeerTest)
+  acceptTimeLockedDependencyOld[2](org.bitcoinj.core.PeerTest): Address already in use
+  acceptTimeLockedDependencyOld[2](org.bitcoinj.core.PeerTest)
+  exceptionListener[2](org.bitcoinj.core.PeerTest): Address already in use
+  exceptionListener[2](org.bitcoinj.core.PeerTest)
+  startBlockChainDownload[2](org.bitcoinj.core.PeerTest): Address already in use
+  startBlockChainDownload[2](org.bitcoinj.core.PeerTest)
+  newBlock[2](org.bitcoinj.core.PeerTest): Address already in use
+  newBlock[2](org.bitcoinj.core.PeerTest)
+  getLargeBlock[2](org.bitcoinj.core.PeerTest): Address already in use
+  getLargeBlock[2](org.bitcoinj.core.PeerTest)
+  invDownloadTxMultiPeer[2](org.bitcoinj.core.PeerTest): Address already in use
+  invDownloadTxMultiPeer[2](org.bitcoinj.core.PeerTest)
+  invTickle[2](org.bitcoinj.core.PeerTest): Address already in use
+  invTickle[2](org.bitcoinj.core.PeerTest)
+  getBlock[2](org.bitcoinj.core.PeerTest): Address already in use
+  getBlock[2](org.bitcoinj.core.PeerTest)
+  recursiveDependencyDownloadDisabled[3](org.bitcoinj.core.PeerTest): Address already in use
+  recursiveDependencyDownloadDisabled[3](org.bitcoinj.core.PeerTest)
+  testAddEventListener[3](org.bitcoinj.core.PeerTest): Address already in use
+  testAddEventListener[3](org.bitcoinj.core.PeerTest)
+  timeLockedTransactionNew[3](org.bitcoinj.core.PeerTest): Address already in use
+  timeLockedTransactionNew[3](org.bitcoinj.core.PeerTest)
+  timeLockedTransactionOld[3](org.bitcoinj.core.PeerTest): Address already in use
+  timeLockedTransactionOld[3](org.bitcoinj.core.PeerTest)
+  invDownloadTx[3](org.bitcoinj.core.PeerTest): Address already in use
+  invDownloadTx[3](org.bitcoinj.core.PeerTest)
+  recursiveDownloadNew[3](org.bitcoinj.core.PeerTest): Address already in use
+  recursiveDownloadNew[3](org.bitcoinj.core.PeerTest)
+  recursiveDownloadOld[3](org.bitcoinj.core.PeerTest): Address already in use
+  recursiveDownloadOld[3](org.bitcoinj.core.PeerTest)
+  rejectTimeLockedDependencyNew[3](org.bitcoinj.core.PeerTest): Address already in use
+  rejectTimeLockedDependencyNew[3](org.bitcoinj.core.PeerTest)
+  rejectTimeLockedDependencyOld[3](org.bitcoinj.core.PeerTest): Address already in use
+  rejectTimeLockedDependencyOld[3](org.bitcoinj.core.PeerTest)
+  disconnectOldVersions1[3](org.bitcoinj.core.PeerTest): Address already in use
+  disconnectOldVersions1[3](org.bitcoinj.core.PeerTest)
+  invNoDownload[3](org.bitcoinj.core.PeerTest): Address already in use
+  invNoDownload[3](org.bitcoinj.core.PeerTest)
+  badMessage[3](org.bitcoinj.core.PeerTest): Address already in use
+  badMessage[3](org.bitcoinj.core.PeerTest)
+  pingPong[3](org.bitcoinj.core.PeerTest): Address already in use
+  pingPong[3](org.bitcoinj.core.PeerTest)
+  shutdown[3](org.bitcoinj.core.PeerTest): Address already in use
+  shutdown[3](org.bitcoinj.core.PeerTest)
+  fastCatchup[3](org.bitcoinj.core.PeerTest): Address already in use
+  fastCatchup[3](org.bitcoinj.core.PeerTest)
+  chainDownloadEnd2End[3](org.bitcoinj.core.PeerTest): Address already in use
+  chainDownloadEnd2End[3](org.bitcoinj.core.PeerTest)
+  acceptTimeLockedDependencyNew[3](org.bitcoinj.core.PeerTest): Address already in use
+  acceptTimeLockedDependencyNew[3](org.bitcoinj.core.PeerTest)
+  acceptTimeLockedDependencyOld[3](org.bitcoinj.core.PeerTest): Address already in use
+  acceptTimeLockedDependencyOld[3](org.bitcoinj.core.PeerTest)
+  exceptionListener[3](org.bitcoinj.core.PeerTest): Address already in use
+  exceptionListener[3](org.bitcoinj.core.PeerTest)
+  startBlockChainDownload[3](org.bitcoinj.core.PeerTest): Address already in use
+  startBlockChainDownload[3](org.bitcoinj.core.PeerTest)
+  newBlock[3](org.bitcoinj.core.PeerTest): Address already in use
+  newBlock[3](org.bitcoinj.core.PeerTest)
+  getLargeBlock[3](org.bitcoinj.core.PeerTest): Address already in use
+  getLargeBlock[3](org.bitcoinj.core.PeerTest)
+  invDownloadTxMultiPeer[3](org.bitcoinj.core.PeerTest): Address already in use
+  invDownloadTxMultiPeer[3](org.bitcoinj.core.PeerTest)
+  invTickle[3](org.bitcoinj.core.PeerTest): Address already in use
+  invTickle[3](org.bitcoinj.core.PeerTest)
+  getBlock[3](org.bitcoinj.core.PeerTest): Address already in use
+  getBlock[3](org.bitcoinj.core.PeerTest)
+  fourPeers[0](org.bitcoinj.core.TransactionBroadcastTest): Address already in use
+  fourPeers[0](org.bitcoinj.core.TransactionBroadcastTest): java.lang.NullPointerException
+  peerGroupWalletIntegration[0](org.bitcoinj.core.TransactionBroadcastTest): Address already in use
+  peerGroupWalletIntegration[0](org.bitcoinj.core.TransactionBroadcastTest): java.lang.NullPointerException
+  retryFailedBroadcast[0](org.bitcoinj.core.TransactionBroadcastTest): Address already in use
+  retryFailedBroadcast[0](org.bitcoinj.core.TransactionBroadcastTest): java.lang.NullPointerException
+  fourPeers[1](org.bitcoinj.core.TransactionBroadcastTest): Address already in use
+  fourPeers[1](org.bitcoinj.core.TransactionBroadcastTest): java.lang.NullPointerException
+  peerGroupWalletIntegration[1](org.bitcoinj.core.TransactionBroadcastTest): Address already in use
+  peerGroupWalletIntegration[1](org.bitcoinj.core.TransactionBroadcastTest): java.lang.NullPointerException
+  retryFailedBroadcast[1](org.bitcoinj.core.TransactionBroadcastTest): Address already in use
+  retryFailedBroadcast[1](org.bitcoinj.core.TransactionBroadcastTest): java.lang.NullPointerException
+  spendOutputFromPendingTransaction(org.bitcoinj.core.WalletTest)
+  keyRotationRandom(org.bitcoinj.core.WalletTest)
+  spendToSameWallet(org.bitcoinj.core.WalletTest)
+  higherThanDefaultFee(org.bitcoinj.core.WalletTest)
+  doubleSpendFinneyAttack(org.bitcoinj.core.WalletTest)
+  balance(org.bitcoinj.core.WalletTest)
+  doubleSpendUnspendsOtherInputs(org.bitcoinj.core.WalletTest)
+  lowerThanDefaultFee(org.bitcoinj.core.WalletTest)
+  feeSolverAndCoinSelectionTest(org.bitcoinj.core.WalletTest)
+  bip38testvector_noCompression_noEcMultiply_test1(org.bitcoinj.crypto.BIP38PrivateKeyTest)
+  bip38testvector_noCompression_noEcMultiply_test2(org.bitcoinj.crypto.BIP38PrivateKeyTest): Could not initialize class org.bitcoinj.crypto.BIP38PrivateKeyTest
+  bip38testvector_noCompression_noEcMultiply_test3(org.bitcoinj.crypto.BIP38PrivateKeyTest): Could not initialize class org.bitcoinj.crypto.BIP38PrivateKeyTest
+  bitaddress_testnet(org.bitcoinj.crypto.BIP38PrivateKeyTest): Could not initialize class org.bitcoinj.crypto.BIP38PrivateKeyTest
+  testJavaSerialization(org.bitcoinj.crypto.BIP38PrivateKeyTest): Could not initialize class org.bitcoinj.crypto.BIP38PrivateKeyTest
+  bitcoinpaperwallet_testnet(org.bitcoinj.crypto.BIP38PrivateKeyTest): Could not initialize class org.bitcoinj.crypto.BIP38PrivateKeyTest
+  bip38testvector_compression_noEcMultiply_test1(org.bitcoinj.crypto.BIP38PrivateKeyTest): Could not initialize class org.bitcoinj.crypto.BIP38PrivateKeyTest
+  bip38testvector_compression_noEcMultiply_test2(org.bitcoinj.crypto.BIP38PrivateKeyTest): Could not initialize class org.bitcoinj.crypto.BIP38PrivateKeyTest
+  badPassphrase(org.bitcoinj.crypto.BIP38PrivateKeyTest): Could not initialize class org.bitcoinj.crypto.BIP38PrivateKeyTest
+  bip38testvector_ecMultiply_noCompression_noLotAndSequence_test1(org.bitcoinj.crypto.BIP38PrivateKeyTest): Could not initialize class org.bitcoinj.crypto.BIP38PrivateKeyTest
+  bip38testvector_ecMultiply_noCompression_noLotAndSequence_test2(org.bitcoinj.crypto.BIP38PrivateKeyTest): Could not initialize class org.bitcoinj.crypto.BIP38PrivateKeyTest
+  bip38testvector_ecMultiply_noCompression_lotAndSequence_test1(org.bitcoinj.crypto.BIP38PrivateKeyTest): Could not initialize class org.bitcoinj.crypto.BIP38PrivateKeyTest
+  bip38testvector_ecMultiply_noCompression_lotAndSequence_test2(org.bitcoinj.crypto.BIP38PrivateKeyTest): Could not initialize class org.bitcoinj.crypto.BIP38PrivateKeyTest
+  basic(org.bitcoinj.protocols.channels.PaymentChannelStateTest)
+  setupDoS(org.bitcoinj.protocols.channels.PaymentChannelStateTest)
+  testPaymentRequest(org.bitcoinj.protocols.payments.PaymentProtocolTest)
+  testSimplePayment(org.bitcoinj.protocols.payments.PaymentSessionTest)
+  testExpiredPaymentRequest(org.bitcoinj.protocols.payments.PaymentSessionTest): Could not initialize class org.bitcoinj.protocols.payments.PaymentSessionTest
+  testPkiVerification(org.bitcoinj.protocols.payments.PaymentSessionTest): Could not initialize class org.bitcoinj.protocols.payments.PaymentSessionTest
+  testDefaults(org.bitcoinj.protocols.payments.PaymentSessionTest): Could not initialize class org.bitcoinj.protocols.payments.PaymentSessionTest
+  testWrongNetwork(org.bitcoinj.protocols.payments.PaymentSessionTest): Could not initialize class org.bitcoinj.protocols.payments.PaymentSessionTest
+  getToAddressNoPubKey(org.bitcoinj.script.ScriptTest)
+  testCreateMultiSigInputScript(org.bitcoinj.script.ScriptTest): Could not initialize class org.bitcoinj.script.ScriptTest
+  testIp(org.bitcoinj.script.ScriptTest): Could not initialize class org.bitcoinj.script.ScriptTest
+  createAndUpdateEmptyInputScript(org.bitcoinj.script.ScriptTest): Could not initialize class org.bitcoinj.script.ScriptTest
+  testScriptPubKey(org.bitcoinj.script.ScriptTest): Could not initialize class org.bitcoinj.script.ScriptTest
+  dataDrivenInvalidScripts(org.bitcoinj.script.ScriptTest): Could not initialize class org.bitcoinj.script.ScriptTest
+  dataDrivenValidScripts(org.bitcoinj.script.ScriptTest): Could not initialize class org.bitcoinj.script.ScriptTest
+  testScriptSig(org.bitcoinj.script.ScriptTest): Could not initialize class org.bitcoinj.script.ScriptTest
+  dataDrivenInvalidTransactions(org.bitcoinj.script.ScriptTest): Could not initialize class org.bitcoinj.script.ScriptTest
+  testP2SHOutputScript(org.bitcoinj.script.ScriptTest): Could not initialize class org.bitcoinj.script.ScriptTest
+  testMultiSig(org.bitcoinj.script.ScriptTest): Could not initialize class org.bitcoinj.script.ScriptTest
+  getToAddress(org.bitcoinj.script.ScriptTest): Could not initialize class org.bitcoinj.script.ScriptTest
+  dataDrivenValidTransactions(org.bitcoinj.script.ScriptTest): Could not initialize class org.bitcoinj.script.ScriptTest
+  testLastBlockSeenHash(org.bitcoinj.store.WalletProtobufSerializerTest): Could not initialize class org.bitcoinj.core.BlockTest
+  testBad_IncorrectAddressType(org.bitcoinj.uri.BitcoinURITest)
+  testUnescapedPaymentProtocolReq(org.bitcoinj.uri.BitcoinURITest)
+  brokenURIs(org.bitcoinj.uri.BitcoinURITest)
+  testPaymentProtocolReq(org.bitcoinj.uri.BitcoinURITest)
+  selectable(org.bitcoinj.wallet.DefaultCoinSelectorTest)
+
+Tests run: 5117, Failures: 0, Errors: 170, Skipped: 1
+
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO] 
+[INFO] bitcoinj Parent .................................... SUCCESS [  1.209 s]
+[INFO] bitcoinj ........................................... FAILURE [07:43 min]
+[INFO] bitcoinj Examples .................................. SKIPPED
+[INFO] bitcoinj Tools ..................................... SKIPPED
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 07:46 min
+[INFO] Finished at: 2015-10-19T11:43:48-04:00
+[INFO] Final Memory: 24M/223M
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.12.4:test (default-test) on project bitcoinj-core: There are test failures.
+[ERROR] 
+[ERROR] Please refer to /root/2/bitcoinj-release-0.12/core/target/surefire-reports for the individual test results.
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+[ERROR] 
+[ERROR] After correcting the problems, you can resume the build with the command
+[ERROR]   mvn <goals> -rf :bitcoinj-core
+root@androdev:~/2/bitcoinj-release-0.12# ls
+AUTHORS  COPYING  README.md  core  db.log  debug.log  designdocs  examples  misc  orchid  peers.dat  pom.xml  tools  wallettemplate
+root@androdev:~/2/bitcoinj-release-0.12# ls -lh
+total 64K
+-rw-r--r-- 1 root root 1.5K Apr  1  2015 AUTHORS
+-rw-r--r-- 1 root root  12K Apr  1  2015 COPYING
+-rw-r--r-- 1 root root 2.3K Apr  1  2015 README.md
+drwxr-xr-x 4 root root 4.0K Oct 19 11:43 core
+-rw------- 1 root root    0 Oct 19 06:00 db.log
+-rw-r--r-- 1 root root 1.5K Oct 19 06:00 debug.log
+drwxr-xr-x 2 root root 4.0K Apr  1  2015 designdocs
+drwxr-xr-x 4 root root 4.0K Oct 14 10:03 examples
+drwxr-xr-x 2 root root 4.0K Apr  1  2015 misc
+drwxr-xr-x 7 root root 4.0K Oct 14 10:01 orchid
+-rw------- 1 root root 1.1K Oct 19 06:00 peers.dat
+-rw-r--r-- 1 root root 7.6K Oct 14 08:03 pom.xml
+drwxr-xr-x 4 root root 4.0K Oct 14 10:05 tools
+drwxr-xr-x 3 root root 4.0K Apr  1  2015 wallettemplate
+root@androdev:~/2/bitcoinj-release-0.12# less debug.log
+root@androdev:~/2/bitcoinj-release-0.12# date
+Mon Oct 19 11:58:16 EDT 2015
+root@androdev:~/2/bitcoinj-release-0.12# 
+
+
+
+
+
